@@ -1,7 +1,7 @@
 # Ninja-Quiz
 
 Project 1 of Udemy's course Modern JavaScript (from Novice to Ninja) 
-https://www.udemy.com/course/modern-javascript-from-novice-to-ninja/
+https://www.udemy.com/course/modern-javascript-from-novice-to-Ninja/
 
 What have I learnt:
 
