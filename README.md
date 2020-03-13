@@ -5,6 +5,6 @@ https://www.udemy.com/course/modern-javascript-from-novice-to-Ninja/
 
 What have I learnt:
 
-- To introduce Bootstrap in a project. I love doing my own CSS files, but sometimes for time-management issues, using an external styling library like Bootsrap can be really useful. https://getbootstrap.com/
+- To introduce Bootstrap in a project. I love doing my own CSS files, but sometimes for time-management issues, using an external library like Bootstrap can be really useful. https://getbootstrap.com/
 
 - 
