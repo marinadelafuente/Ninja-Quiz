@@ -13,17 +13,17 @@ const compareAnswers = function () {
     userAnswersValue.forEach((answer, i) => {
         if (answer === correctAnswers[i]) {
             score += 25;
-            // return userScore.innerHTML = `${score}%`
             return (
                 result.classList.remove("d-none"))
         }
     });
 
-    console.log(score);
     userScore.innerHTML = `${score}%`
+    // result.querySelector('span').textContent = `${score}%`
 };
 
 form.addEventListener('submit', event => {
     event.preventDefault();
     compareAnswers();
+    scrollTo(0, 0);
 });
